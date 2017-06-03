@@ -1,4 +1,4 @@
-# LambdaSchool Free Mini Bootcamp Homework 3 #
+# Ultimate Free Mini Bootcamp Homework 3 #
 
 ## Task One ##
 
@@ -11,11 +11,11 @@
 
 ```
 
-My name is:
+My name is: Amulya Parmar AKA Cool as a cucumber AKA Icebreaker
 
-I like to:
+I like to: share skills and inspire knowledge.
 
-I'm learning:
+I'm learning: to execute math, coding, and entrepreneurship.  
 
 ```
 
